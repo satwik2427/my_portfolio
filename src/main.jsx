@@ -140,7 +140,7 @@ function App() {
           <motion.div className="hero-actions" initial={{opacity:0,y:14}} animate={{opacity:1,y:0}} transition={{delay:.42}}><a className="button button-primary" href="#projects">Explore projects <ArrowUpRight size={17}/></a><a className="button button-ghost" href="#contact">Get in touch</a></motion.div>
           <div className="hero-meta"><span><b>01</b> HARDWARE</span><span><b>02</b> EMBEDDED</span><span><b>03</b> EXPLORATION</span></div>
         </div>
-        <div className="hero-visual"><div className="visual-label label-top"><span>FIG 01 / SILICON STUDY</span><span>3D INTERACTIVE</span></div><div className="chip-canvas"><HeroCanvas/></div><div className="visual-coordinates">12° 58' N&nbsp; / &nbsp;77° 35' E <span>•&nbsp; BENGALURU, IN</span></div><div className="visual-note"><span className="note-line"/><span>Curiosity, engineered.</span></div></div>
+        <div className="hero-visual"><div className="visual-label label-top"><span></span><span></span></div><div className="chip-canvas"><HeroCanvas/></div><div className="visual-coordinates">12° 58' N&nbsp; / &nbsp;77° 35' E <span>•&nbsp; BENGALURU, IN</span></div><div className="visual-note"><span className="note-line"/><span>Curiosity, engineered.</span></div></div>
         <a className="scroll-cue" href="#about"><span>SCROLL TO EXPLORE</span><ArrowDown size={15}/></a>
       </section>
 
