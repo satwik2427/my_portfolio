@@ -382,7 +382,7 @@ function App() {
           <div className="hero-visual">
             <div className="visual-label label-top">
               <span></span>
-              <span>3D INTERACTIVE</span>
+              <span></span>
             </div>
 
             <div className="chip-canvas">
